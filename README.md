@@ -14,10 +14,10 @@ ighack is a bash based script which is officially made to test password strength
  
 ***Installation and usage guide***:
 ```
-$ apt-get update -y
+$ apt update -y
 ```
 ```
-$ apt-get upgrade -y
+$ apt upgrade -y
 ```
 ```
 $ pkg install python -y 
